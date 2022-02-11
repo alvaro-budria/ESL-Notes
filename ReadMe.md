@@ -1,0 +1,1 @@
+This repository contains a document with the notes and summaries I wrote down about some chapters from $\textit{Elements of Statistical Learning}$, namely, Chapter 2: Overview of Supervised Learning, Chapter 3: Linear Methods for Regression and Chapter 11: Neural Networks.
